@@ -1,0 +1,22 @@
+{
+  "name": "zkmon-reveal",
+  "version": "1.0.0",
+  "description": "Documentation of the fair zkMon reveal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node reveal.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polychainmonsters/zkmon-reveal.git"
+  },
+  "author": "Polychain Monsters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polychainmonsters/zkmon-reveal/issues"
+  },
+  "homepage": "https://github.com/polychainmonsters/zkmon-reveal#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
